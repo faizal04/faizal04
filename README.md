@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [faisalharray.netlify.app](faisalharray.netlify.app)
+- 👨‍💻 All of my projects are available at [faisalharray.netlify.app](https://github.com/faizal04?tab=repositories)
 
 - 💬 Ask me about **react,javascript,C,C++**
 
